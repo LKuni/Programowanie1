@@ -1,0 +1,5 @@
+C:\Users\Kuni\Desktop\StandardowyCzlowiek\StandardowyCzlowiek\bin\Debug\StandardowyCzlowiek.exe.config
+C:\Users\Kuni\Desktop\StandardowyCzlowiek\StandardowyCzlowiek\bin\Debug\StandardowyCzlowiek.exe
+C:\Users\Kuni\Desktop\StandardowyCzlowiek\StandardowyCzlowiek\bin\Debug\StandardowyCzlowiek.pdb
+C:\Users\Kuni\Desktop\StandardowyCzlowiek\StandardowyCzlowiek\obj\Debug\StandardowyCzlowiek.exe
+C:\Users\Kuni\Desktop\StandardowyCzlowiek\StandardowyCzlowiek\obj\Debug\StandardowyCzlowiek.pdb

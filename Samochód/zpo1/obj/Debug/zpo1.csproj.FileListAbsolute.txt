@@ -1,0 +1,15 @@
+D:\Kuni\zpo1\zpo1\bin\Debug\zpo1.exe.config
+D:\Kuni\zpo1\zpo1\bin\Debug\zpo1.exe
+D:\Kuni\zpo1\zpo1\bin\Debug\zpo1.pdb
+D:\Kuni\zpo1\zpo1\obj\Debug\zpo1.csprojResolveAssemblyReference.cache
+D:\Kuni\zpo1\zpo1\obj\Debug\zpo1.exe
+D:\Kuni\zpo1\zpo1\obj\Debug\zpo1.pdb
+G:\Zaawansowane programowanie obiektowe\zpo1\zpo1\bin\Debug\zpo1.exe.config
+G:\Zaawansowane programowanie obiektowe\zpo1\zpo1\obj\Debug\zpo1.exe
+G:\Zaawansowane programowanie obiektowe\zpo1\zpo1\obj\Debug\zpo1.pdb
+F:\Zaawansowane programowanie obiektowe\zpo1\zpo1\bin\Debug\zpo1.exe.config
+F:\Zaawansowane programowanie obiektowe\zpo1\zpo1\obj\Debug\zpo1.exe
+F:\Zaawansowane programowanie obiektowe\zpo1\zpo1\obj\Debug\zpo1.pdb
+F:\Zaawansowane programowanie obiektowe\zpo1\zpo1\bin\Debug\zpo1.exe
+F:\Zaawansowane programowanie obiektowe\zpo1\zpo1\bin\Debug\zpo1.pdb
+F:\Zaawansowane programowanie obiektowe\zpo1\zpo1\obj\Debug\zpo1.csprojResolveAssemblyReference.cache
